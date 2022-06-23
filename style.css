@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(to right,purple, black)
+}
+header > a{
+    text-align: center;
+    margin: 30px;
+    text-decoration: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+main{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    margin-top: 50px;
+    text-align: left;
+}
+main > h1{
+    text-align: left;
+}
+#inicio{
+    text-align: center;
+}
+#inicio-h1{
+    text-align: center;
+}
+
+    table, tr, td, th{
+        border:#000 solid 1px;
+        width:450px;
+        padding:0px;
+        font-size:20px;
+    }
+    td{
+        width:150px;
+        height:30px;
+    }
+    th{
+        background-color:rgb(56, 1, 58);
+        color:#FFF;
+    }
+    img, table{
+        display: inline-block
+    }
+    #açai{
+        width: 250px;
+
+    }
+    #cupuaçu{
+        width: 400px;
+    }
+    footer{
+        color: white;
+    }
